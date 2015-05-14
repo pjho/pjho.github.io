@@ -1,8 +1,7 @@
 # Site settings
 title: Pat Horsley - GitHub
 email: pat@pho.sx
-description: > 
-  Web Developer from Wellington NZ
+description: Web Developer from Wellington NZ
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://phosx.github.io
 twitter_username: patnz
@@ -10,8 +9,6 @@ github_username:  phosx
 
 # Build settings
 markdown: kramdown
-
-
 
 name: Phosx
 avatar: https://avatars1.githubusercontent.com/u/1817298
