@@ -1,0 +1,78 @@
+# Site settings
+title: Pat Horsley - GitHub
+email: pat@pho.sx
+description: > 
+  Web Developer from Wellington NZ
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://phosx.github.io
+twitter_username: patnz
+github_username:  phosx
+
+# Build settings
+markdown: kramdown
+
+
+
+name: Phosx
+avatar: https://avatars1.githubusercontent.com/u/1817298
+
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: phosx
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: patnz
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus:
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+highlighter: pygments
+
+permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v2.5.3
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
