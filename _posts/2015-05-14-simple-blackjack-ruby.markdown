@@ -9,7 +9,7 @@ excerpt: "Simple BlackJack game"
 ---
 
 {% highlight ruby %}
-  
+   
   class BlackJack
     
     def initialize
