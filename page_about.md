@@ -4,89 +4,44 @@ title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a web developer from Wellington, NZ. I'm currently putting myself through an 'open-source' education upgrade using both paid & open online content. I aim to document my learning on this site.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My core focus at present is updating my webdev skills focusing on Ruby/Rails & JS/Angular/React with a side focus on data & data analysis as well as more general comp-sci topics such as algorithms & data structures.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Full details of courses I'm working on can be seen [here][sgs]
 
+--- 
 
+My core technical skills at present include:
 
-## Self Guided Study
+- Frontend Web Development with HTML5/CSS3/SASS & jQuery
+- Wordpress theme development
+- PHP & MySQL
+- Workflow tools including Git, Grunt & CLI
+- HTML Email Marketing & Platforms
 
+I'm fairly well versed with:
 
-### Ruby
+- OOP principles
+- REST principles 
+- Vanilla JavaScript
+- Basic server management (LAMP/LEMP)
+- Common Web APIs including Facebook, Twitter, Google Maps
+- Digital Marketing Strategy primarily:
+   - Google Analytics & Adwords
+   - Facebook Advertising
+   - Retargeting
+   - Event & Conversion tracking
+   - A/B Testing
+   - Landing page optimisation
 
-| ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
-|---|:-----------------------------|-----------------|--------------------------------|----------|
-| ~ | Learn Ruby The Hard Way      | 3 Days          | output / [content][LRTHW]      | May 2015 |
-| ~ | Code Excercises In Ruby      | Ongoing         | [output][rubyx] / content      | Ongoing  |
-| ~ | bbatsov/**ruby-style-guide** | 3 Hours         | output / [content][rubysg]     | May 2015 |
+And have some experience with
 
-
-
-### Ruby on Rails
-| ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
-|---|:-----------------------------|-----------------|--------------------------------|----------|
-| ✓ | One Month Rails              | ~ 3 Days        | -                              | Oct 2014 |
-| ✓ | Rails Tutorial (Hartl)       | ~ 3 Days        | -                              | Oct 2014 |
-| ✓ | Rails Lynda.com              | ~ 3 Days        | -                              | Oct 2014 |
-
-
-
-### JavaScript
-| ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
-|---|:-----------------------------|-----------------|--------------------------------|----------|
-| o | Eloquent JavaScrpt           | -               | -                              | Oct 2014 |
-
-
-
-### SQL
-| ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
-|---|:-----------------------------|-----------------|--------------------------------|----------|
-| ✓ | SQL Udemy                    | -               | -                              | Apr 2015 |
-
-
-### Python
-| ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
-|---|:-----------------------------|-----------------|--------------------------------|----------|
-| ✓ | Playing with Beautifulsoup   | -               | -                              | Apr 2015 |
-| ✓ | Playing with Scrapy          | -               | -                              | Apr 2015 |
-| ✓ | Django Tuts+                 | -               | -                              | Jul 2014 |
-
-
-###IOS
-| ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
-|---|:-----------------------------|-----------------|--------------------------------|----------|
-| ~ | IOS Udemy                    | 3 Days          | -                              | Apr 2015 |
-
-
-### Tools & WorkFlows
-| ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
-|---|:-----------------------------|-----------------|--------------------------------|----------|
-| ✓ | Venture into Vim             | 2 Days          | -                              | Apr 2015 |
-| ✓ | VimTutor                     | 4 hours         | -                              | Apr 2015 |
-
-### Other
-| ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
-|---|:-----------------------------|-----------------|--------------------------------|----------|
-| ~ | Server Management Udemy      | 1 Days          | -                              | Apr 2015 |
-| ~ | Math & Stats                 | -               | -                              | -        |
-| ~ | Data Analysis                | -               | -                              | -        |
-
-
-### To Explore
-| ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
-|---|:-----------------------------|-----------------|--------------------------------|----------|
-| o | Data Structures              | -               | -                              | -        |
-| o | Algorithms                   | -               | -                              | -        |
-
-
-
+- Ruby/Rails
+- Python/Django 
+- AngularJS
 
 
 <!-- Links -->
 [null]: #
-[LRTHW]: http://learnrubythehardway.org/book/
-[rubyx]: https://github.com/phosx/learning_ruby
-[rubysg]: https://github.com/bbatsov/ruby-style-guide
+[sgs]: /self-guided-study/
