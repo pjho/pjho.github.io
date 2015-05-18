@@ -15,9 +15,10 @@ completed (✓), &nbsp; am working on (~) &nbsp; or intend to complete (o).
 
 | ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
 |---|:-----------------------------|-----------------|--------------------------------|----------|
-| ~ | Learn Ruby The Hard Way      | 3 Days          | output / [content][LRTHW]      | May 2015 |
-| ~ | Code Excercises In Ruby      | Ongoing         | [output][rubyx] / content      | Ongoing  |
-| ~ | bbatsov/**ruby-style-guide** | 3 Hours         | output / [content][rubysg]     | May 2015 |
+| ~ | Learn Ruby The Hard Way      | 3 Days          | [content][LRTHW]               | May 2015 |
+| ~ | Code Excercises In Ruby      | Ongoing         | [output][rubyx]                | Ongoing  |
+| ~ | bbatsov/**ruby-style-guide** | 3 Hours         | [content][rubysg]              | May 2015 |
+| o | rDoc                         | -               | [content][rdoc]                | -        |
 
 
 
@@ -86,3 +87,4 @@ completed (✓), &nbsp; am working on (~) &nbsp; or intend to complete (o).
 [LRTHW]: http://learnrubythehardway.org/book/
 [rubyx]: https://github.com/phosx/learning_ruby
 [rubysg]: https://github.com/bbatsov/ruby-style-guide
+[rdoc]: http://rdoc.sourceforge.net/doc/index.html
