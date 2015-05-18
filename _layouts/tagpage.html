@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<h1><span>Posts Tagged:</span> {{ page.tag }}</h1>
+<ul class="post-list">
+  {% for post in site.tags[page.tag] %}
+  {% include post-list-item.html %}
+  {% endfor %}
+</ul>
+
