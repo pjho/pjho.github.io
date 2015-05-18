@@ -20,7 +20,7 @@ My core technical skills at present include:
 - Workflow tools including Git, Grunt & CLI
 - HTML Email Marketing & Platforms
 
-I'm fairly well versed with:
+I'm familiar with:
 
 - OOP principles
 - REST principles 
