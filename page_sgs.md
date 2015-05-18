@@ -6,6 +6,8 @@ permalink: /self-guided-study/
 
 I'm a web developer from Wellington, NZ. I'm currently putting myself through an 'open-source' education upgrade using both paid & open online content. I aim to document my learning on this site.
 
+This is v0.1 of a constantly evolving document.
+
 Below are details of courses, books & resources I have:  
 completed (✓), &nbsp; am working on (~) &nbsp; or intend to complete (o).
 
