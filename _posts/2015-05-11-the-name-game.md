@@ -2,7 +2,7 @@
 layout: post
 title:  "The Name Game"
 date:   2015-05-11 20:02:10
-tags: ruby code
+tags: code ruby
 ---
 
 [http://www.reddit.com/r/dailyprogrammer/the-name-game][link1]

@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple BlackJack Game in Ruby"
 date:   2015-05-14 19:02:10
-tags: ruby code
+tags: code ruby
 ---
 
 {% highlight ruby %}
