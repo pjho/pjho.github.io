@@ -63,6 +63,8 @@ completed (✓), &nbsp; am working on (~) &nbsp; or intend to complete (o).
 |---|:-----------------------------|-----------------|--------------------------------|----------|
 | ✓ | Venture into Vim             | 2 Days          | -                              | Apr 2015 |
 | ✓ | VimTutor                     | 4 hours         | -                              | Apr 2015 |
+| ~ | [Gitflow Workflow][gitflow]  | 1 hours         | -                              | Apr 2015 |
+
 
 ### Other
 | ✓ | Resource Title               | Apprx. Duration | Links                          | Date     |
@@ -88,3 +90,4 @@ completed (✓), &nbsp; am working on (~) &nbsp; or intend to complete (o).
 [rubyx]: https://github.com/phosx/learning_ruby
 [rubysg]: https://github.com/bbatsov/ruby-style-guide
 [rdoc]: http://rdoc.sourceforge.net/doc/index.html
+[gitflow]: https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow
