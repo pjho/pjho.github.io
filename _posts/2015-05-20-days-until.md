@@ -17,7 +17,7 @@ src: [/r/dailyprogrammer/days-until][src]
 ~~~ruby 
 ##
 # Most of the time on this was spent playing and researching date functions
-# and how they respond to different formats.
+# in ruby and how they respond to different formats.
 ##
 
 
