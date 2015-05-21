@@ -1,9 +1,9 @@
 # Site settings
-title: phosx.github.io
+title: pjho.github.io
 email: pat@pho.sx
 description: Web Developer from Wellington NZ
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://phosx.github.io
+url: http://pjho.github.io
 twitter_username: patnz
 github_username:  phosx
 
