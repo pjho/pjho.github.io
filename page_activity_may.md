@@ -3,6 +3,33 @@ layout: page
 title:  "May 2015 Activity Log"
 permalink: /activity/2015/may/
 ---
+**Saturday May 30**
+
+* Adjusted routes to use CMS namespace for all admin pages
+* refactored views & controllers to account for modified routes
+* adjusted Devise styles
+
+**Friday May 29**
+
+* throw 404 for non admin if not published
+* make slug from title if not specified
+* integrate basic wysiwyg editor 	
+* setup custom 404s 
+* Researched routes and namespacing & scope
+
+		
+**Thursday May 28**
+
+* Continued working on simple cms excercise
+	* researched and configuresd asset pipeline with public & admin manifests
+	* integrated html & cms theme into public view
+	* learnt about asset helpers in haml & sass
+	* Setup styling for front & backend
+	* validations for page
+	* migration to make page-slug unique
+	* fixed page update route bug
+		* I think how my routes are setup is not that great. I need to do more research around having an admin controller with public content
+	 
 
 **Wednesday May 27**
 
