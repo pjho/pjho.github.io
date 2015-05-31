@@ -3,13 +3,18 @@ layout: page
 title:  "May 2015 Activity Log"
 permalink: /activity/2015/may/
 ---
-**Saturday May 30**
+
+####Sunday May 30
+
+* - 
+
+####Saturday May 30
 
 * Adjusted routes to use CMS namespace for all admin pages
 * refactored views & controllers to account for modified routes
 * adjusted Devise styles
 
-**Friday May 29**
+####Friday May 29
 
 * throw 404 for non admin if not published
 * make slug from title if not specified
@@ -18,7 +23,7 @@ permalink: /activity/2015/may/
 * Researched routes and namespacing & scope
 
 		
-**Thursday May 28**
+####Thursday May 28
 
 * Continued working on simple cms excercise
 	* researched and configuresd asset pipeline with public & admin manifests
@@ -31,7 +36,7 @@ permalink: /activity/2015/may/
 		* I think how my routes are setup is not that great. I need to do more research around having an admin controller with public content
 	 
 
-**Wednesday May 27**
+####Wednesday May 27
 
 * Began activity log
   * Everything below will be from memory & github so probably incomplete
@@ -42,7 +47,7 @@ permalink: /activity/2015/may/
 
 
 
-**Tuesday May 26**
+####Tuesday May 26
 
 * Finished *Number Culling* challenge in Ruby
 	* learned a few new str & array methods
@@ -56,16 +61,16 @@ permalink: /activity/2015/may/
 	* Deleted RVM & installed Rbenv 
 	* Tidied $PATH & shell dotfiles
 		 
-**25 May**
+####25 May
 
 * Following Tutspolls tutorials
 * Finished Hangman Game in Ruby
 
-**24 May**
+####24 May
 
 * Started Building Hangman game in Ruby
 
-**1 May to 23 May**
+####1 May to 23 May
 
 * Learnt to use ruby 
 	* With learn Ruby the hard way 
