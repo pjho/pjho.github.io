@@ -6,8 +6,6 @@ permalink: /activity/2015/may/
 
 ####Sunday May 30
 
-* - 
-
 ####Saturday May 30
 
 * Adjusted routes to use CMS namespace for all admin pages
@@ -61,12 +59,12 @@ permalink: /activity/2015/may/
 	* Deleted RVM & installed Rbenv 
 	* Tidied $PATH & shell dotfiles
 		 
-####25 May
+####Monday 25 May
 
 * Following Tutspolls tutorials
 * Finished Hangman Game in Ruby
 
-####24 May
+####Sunday 24 May
 
 * Started Building Hangman game in Ruby
 
@@ -78,4 +76,5 @@ permalink: /activity/2015/may/
 * Built site with Jekyll & Github Pages
 * Learnt to use Vim
 * Completed Udemy SQL course
-* 
+
+[&larr; Back to all activity](/activity/)

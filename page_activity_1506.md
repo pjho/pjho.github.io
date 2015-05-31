@@ -12,4 +12,6 @@ permalink: /activity/2015/june/
 * ToDo
 	* Add superadmin capability
 	* Protect superadmin content
-	* add current_admin password cofirmation to superadmin actions  
+	* add current_admin password cofirmation to superadmin actions
+
+[&larr; Back to all activity](/activity/)
