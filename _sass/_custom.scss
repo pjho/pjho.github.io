@@ -71,3 +71,12 @@ a.post-tag:hover{color:#FFF!important}
 
 
 
+ul ul{
+  margin-bottom: 5px;
+  li{
+    list-style-type:circle;
+    ul li{
+      list-style-type:square;
+    }
+  }
+}
