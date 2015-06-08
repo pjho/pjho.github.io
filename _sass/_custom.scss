@@ -12,6 +12,11 @@
   }
 }
 
+h5 {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin-bottom: 0;
+}
 
 .post-list{
   margin-left:0;
@@ -29,7 +34,7 @@
     display:inline-block;
     border:1px solid #e3e3e3;
     margin:0px 2px;
-    padding:3px;
+    padding:3px 3px 4px;
     border-radius:3px;
     line-height:0.9em;
     font-size:0.8em;
@@ -68,6 +73,28 @@ a.post-tag:hover{color:#FFF!important}
   }
 }
 
+.post-tag.post-php{
+  border-color:#8892BF;
+  color: #8892BF;
+  &:hover{
+    background-color:#8892BF;
+  }
+}
+
+.post-tag.post-rails{
+  border-color:#981A21;
+  color: #981A21;
+  &:hover{
+    background-color:#981A21;
+  }
+}
+
+.post-tag.post-project{
+  border-color:#232323;
+  color: #232323;
+  &:hover{
+    background-color:#232323;}
+}
 
 
 
