@@ -7,13 +7,10 @@ tags: project rails
 
 A simple cms built for the purpose of learning Ruby on Rails. Wanna check it out?
 
-`Demo coming soon.`
+[Sign in here](https://frozen-bastion-6147.herokuapp.com/cms) with the details `superadmin@pho.sx` / `password`  
 
-<!--
-[Sign in here](/cms) with the details `admin` / `password`  
+Feel free to make changes.
 
-Feel free to make changes. All data is scrubbed every 5 minutes so don't be shy.
--->
 ---
 
 ##Whats Inside?
@@ -84,10 +81,6 @@ Feel free to make changes. All data is scrubbed every 5 minutes so don't be shy.
   
 </div>
 
-
-
-
-
 ---
 ##What did I learn?
 Heaps.
@@ -105,6 +98,16 @@ Some of the things I feel I really understand about rails after completing this 
 * Responding, Rendering, Redirecting
 * Using external Modules/Classes
 * Rails CLI / Server / Console
+
+---
+
+##What would I do differently now?
+
+* Testing!. Having built this I really appreciate the potential value of writing automated tests to make sure changes & refactoring don't break code
+* DRY up my code. There's a bit of repetition that I don't love, particularly between posts & pages, that could be abstracted or put into a parent class and extended.
+* Settings & Menus have the same model/controller but different ui. I think I would seperate them if I did it again.
+* Use a Gem for pretty page/post slugs.
+* There's plenty of things I'd add if this was going to be something I was planning to use commercially. For now though, I've learnt a lot and want to get on to the next projects.
 
 ---
 
