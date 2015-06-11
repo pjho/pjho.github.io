@@ -6,8 +6,13 @@ permalink: /activity/2015/june/
 
 #### Todo
 
+####Thursday June 11th
+* Completed Ruby Koans
+* Started Eloquent Javascript 
+
 ####Wenesday June 10th
 * First half of Ruby Koans
+* Revisiting Rails Tutorial by Michael Hartl
 
 ####Tuesday June 9th
 * Added tidy dummy content to site
