@@ -3,12 +3,25 @@ layout: page
 title:  "June 2015 Activity Log"
 permalink: /activity/2015/june/
 ---
+####Monday June 15th
+* Completed chapter 5.
 
-#### Todo
+
+####Sunday June 14th
+
+####Saturday June 13th
+* Completed chapter 4.
+
+####Friday June 12th
+* Continued Reading & doing excercise for Eloquent Javascript book.
+* Completed chapter 3 & most of chapter 4.
+
 
 ####Thursday June 11th
 * Completed Ruby Koans
-* Started Eloquent Javascript 
+* Started Eloquent Javascript & completed chapter 2 excercises
+* Read AirBnB JS styleguide (ES5)
+* Adjusted examples to comply with Abnb styleguide.
 
 ####Wenesday June 10th
 * First half of Ruby Koans
