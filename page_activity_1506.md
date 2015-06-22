@@ -3,9 +3,33 @@ layout: page
 title:  "June 2015 Activity Log"
 permalink: /activity/2015/june/
 ---
-####Monday June 15th
-* Completed chapter 5.
+####Monday June 22th
+* Completed chapter 7 of Eloquent Javascript
+* Used JSDoc to document (and understand) the entire excercise codebase
 
+####Sunday June 21th
+* Continued creating Coffee Consumption Dashboard
+
+####Saturday June 20th
+* Started creating Coffee Consumption Dashboard with Dashing.io
+
+####Friday June 19th
+* 
+
+####Thursday June 18th
+* JsDoc
+* Started chapter 7 of Eloquent Javascript
+ 
+####Wednesday June 17th
+* 
+
+####Tuesday June 16th
+* Eloquent Javascript Excercises & continued React tutorials.
+
+####Monday June 15th
+* Completed chapter 5 Eloquent Javascript.
+* 90% Chapter 6
+* Section one of Udemy ReactJS Course
 
 ####Sunday June 14th
 
