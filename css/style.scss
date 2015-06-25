@@ -519,6 +519,11 @@ $size-header-pad:		4em;
 				width: 100%;
 			}
 		}
+    &.no-overlay{
+        &:before {
+        display: none;
+      }
+    }
 	}
 
 /* List */

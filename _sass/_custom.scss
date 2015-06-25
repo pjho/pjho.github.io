@@ -95,7 +95,19 @@ a.post-tag:hover{color:#FFF!important}
   &:hover{
     background-color:#232323;}
 }
+.post-tag.post-react{
+  border-color:#61dafb;
+  color: #61dafb;
+  &:hover{
+    background-color:#61dafb;}
+}
 
+.post-tag.post-tutorial{
+  border-color:#7BAF26;
+  color: #7BAF26;
+  &:hover{
+    background-color:#7BAF26;}
+}
 
 
 ul ul{
