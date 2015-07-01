@@ -47,66 +47,47 @@ h5 {
     color: #e5e5e5
   }
 }
-a.post-tag:hover{color:#FFF!important}
+
+a.post-tag{color:#FFF; opacity:0.5;}
+a.post-tag:hover{opacity:1; color:#fff!important;}
 
 .post-tag.post-ruby{
   border-color:#AC1401;
-  color: #CC342D;
-  &:hover{
-    background-color:#AC1401;
-  }
+  background-color:#AC1401;
 }
 
 .post-tag.post-code{
-  border-color:#2c3e50;
-  color: #2c3e50;
-  &:hover{
-    background-color:#2c3e50;
-  }
+  border-color:#2980b9;
+  background-color:#2980b9;
 }
 
 .post-tag.post-js{
   border-color:#F0DB4F;
-  color: #323330;
-  &:hover{
-    background-color:#F0DB4F;
-  }
+  background-color:#F0DB4F;
 }
 
 .post-tag.post-php{
   border-color:#8892BF;
-  color: #8892BF;
-  &:hover{
-    background-color:#8892BF;
-  }
+  background-color:#8892BF;
 }
 
 .post-tag.post-rails{
   border-color:#981A21;
-  color: #981A21;
-  &:hover{
-    background-color:#981A21;
-  }
+  background-color:#981A21;
 }
 
 .post-tag.post-project{
   border-color:#232323;
-  color: #232323;
-  &:hover{
-    background-color:#232323;}
+  background-color:#232323;
 }
 .post-tag.post-react{
   border-color:#61dafb;
-  color: #61dafb;
-  &:hover{
-    background-color:#61dafb;}
+  background-color:#61dafb;
 }
 
 .post-tag.post-tutorial{
   border-color:#2CC36B;
-  color: #2CC36B;
-  &:hover{
-    background-color:#2CC36B;}
+  background-color:#2CC36B;
 }
 
 
