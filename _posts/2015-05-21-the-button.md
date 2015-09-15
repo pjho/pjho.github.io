@@ -2,28 +2,28 @@
 layout: post
 title:  "The Button can be pressed but once..."
 date: 2015-05-21 09:05:10
-tags: code ruby
+tags: code-exercise ruby
 ---
 
 ####The Challenge
-> The 1st of April brought [the Button][link1] to Reddit - if you've not heard of it,  
-read the blog post on it [here][link2] . The value of the countdown at the instant  
-that someone presses the button determines the flair that they obtain on the  
-subreddit. For example, if the counter is at 53.04 seconds, then I would obtain  
-a 53 flair, as that is the number of seconds (rounded down). After a person  
-presses the button, the countdown resets from 60.00 seconds. Today's challenge  
-is simple - you'll be given a list of users in no particular order, and told  
-at which time each user pressed the button; you'll need to work out which  
-flair each user gets.  You can assume that the countdown never runs to zero  
-for this challenge, and that no two users will press the button at exactly  
-the same moment.  
+> The 1st of April brought [the Button][link1] to Reddit - if you've not heard of it,
+read the blog post on it [here][link2] . The value of the countdown at the instant
+that someone presses the button determines the flair that they obtain on the
+subreddit. For example, if the counter is at 53.04 seconds, then I would obtain
+a 53 flair, as that is the number of seconds (rounded down). After a person
+presses the button, the countdown resets from 60.00 seconds. Today's challenge
+is simple - you'll be given a list of users in no particular order, and told
+at which time each user pressed the button; you'll need to work out which
+flair each user gets.  You can assume that the countdown never runs to zero
+for this challenge, and that no two users will press the button at exactly
+the same moment.
 
 src [/r/dailyprogrammer/the-button][src]
 
 ~~~ ruby
 
 ## input            ## output
-# 7                 #  
+# 7                 #
 # UserA: 41.04      # UserB: 52
 # UserB: 7.06       # UserE: 54
 # UserC: 20.63      # UserC: 51
@@ -34,23 +34,23 @@ src [/r/dailyprogrammer/the-button][src]
 
 
 def get_flair(input)
-  
+
   # Process input string of users to a hash sorted by user's score
   users = {}
-  input.strip.split("\n")[1..-1].each do |u| 
+  input.strip.split("\n")[1..-1].each do |u|
      user = u.split(':').map(&:strip)
      users[user[0]] = user[1].to_f.round(2)
   end
   users = users.sort_by { |k, v| v }.to_h
- 
+
   # Process users' flair scores and add to output string
   prev = 0
   output = ""
-  users.each do |user|   
+  users.each do |user|
     output << "#{user[0]}: #{ (60 - (user[1] - prev)).to_i} \n"
     prev = user[1]
   end
-  
+
   return output
 end
 
@@ -80,7 +80,7 @@ puts get_flair(input)
 # variables are better named than mine.
 # The user class is a nice & logical approach to processing user info
 # Input method is nice and makes use of the otherwise redundant first line
-# <=> Combined comparison operator. a > b ? 1 : a < b ? -1 : 0 
+# <=> Combined comparison operator. a > b ? 1 : a < b ? -1 : 0
 
 class User
   attr_reader :time

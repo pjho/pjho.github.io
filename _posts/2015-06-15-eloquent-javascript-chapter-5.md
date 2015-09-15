@@ -2,17 +2,17 @@
 layout: post
 title:  "Eloquent Javascript - Higher Order Functions"
 date: 2015-06-15 12:24:10
-tags: code js
+tags: code-exercise js
 ---
 
 ####The Challenge
 These are my solutions to problems in Eloquent Javascript Chapter 5 - Higher Order Functions. The full set of my solutions to this book are available on [my github account](https://github.com/pjho/eloquent-javascript).
 
 
-> 
+>
 src [eloquentjavascript.net][src]
 
-This block contains helper functions provided by the excercises. A json file is loaded with data containing the author's family tree. 
+This block contains helper functions provided by the excercises. A json file is loaded with data containing the author's family tree.
 
 ~~~ javascript
 
@@ -53,7 +53,7 @@ A fairly straight forward challenge using map and filter. This could have been i
   * from their name, might be useful here.
    ****/
   var motherAges = ancestry.map(function(person){
-    mother = byName[person.mother];
+    var mother = byName[person.mother];
     if (mother){
       return person.born - mother.born;
     }

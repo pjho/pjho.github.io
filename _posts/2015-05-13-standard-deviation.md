@@ -2,7 +2,7 @@
 layout: post
 title:  "Calulating Standard Deviation & SqrRoot"
 date: 2015-05-13 12:02:10
-tags: code ruby
+tags: code-exercise ruby
 ---
 
 excercise source: [/r/dailyprogramer/standard-deviation][link1]
@@ -37,7 +37,7 @@ our example, sqrt(95.6) ≈ 9.7775.
 def std_dev(pop)
   sum = pop.reduce(:+)
   mean = sum / pop.length.to_f
-  difs = pop.map { |i| (i - mean)**2 } 
+  difs = pop.map { |i| (i - mean)**2 }
   sum_of_difs = difs.reduce(:+)
   variance = sum_of_difs / pop.length.to_f
   # return Math.sqrt(variance).round(4)
@@ -47,10 +47,10 @@ end
 def sqrt(number)
   # return Math.sqrt(i) # naaa!
   low = 0.0
-  high = number.to_f  
-  middle = (low + high) / 2 
+  high = number.to_f
+  middle = (low + high) / 2
   while abs_dif(middle**2, number)  >  0.0000001
-    middle = (low + high) / 2 
+    middle = (low + high) / 2
     if middle**2 > number
       high = middle
     elsif middle**2 < number
@@ -75,11 +75,11 @@ puts std_dev([37, 81, 86, 91, 97, 108, 109, 112, 112, 114, 115, 117, 121, 123, 1
 puts std_dev([266, 344, 375, 399, 409, 433, 436, 440, 449, 476, 502, 504, 530, 584, 587])
 # 83.6616
 
-puts std_dev([809, 816, 833, 849, 851, 961, 976, 1009, 1069, 1125, 1161, 1172, 1178, 
+puts std_dev([809, 816, 833, 849, 851, 961, 976, 1009, 1069, 1125, 1161, 1172, 1178,
               1187, 1208, 1215, 1229, 1241, 1260, 1373])
 # 170.1273
 
- 
+
 ~~~
 
 

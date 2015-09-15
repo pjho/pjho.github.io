@@ -2,16 +2,16 @@
 layout: post
 title:  "Sad Cycles"
 date:   2015-05-19 19:48:10
-tags: code ruby
+tags: code-exercise ruby
 ---
 
 
 ####The Challenge
 
-> Take a number, and add up the square of each digit.   
-  You'll end up with another number. If you repeat this process over  
-  and over you'll end up with a repeating sequence of numbers  
-  This sequence is the Sad cycle.  
+> Take a number, and add up the square of each digit.
+  You'll end up with another number. If you repeat this process over
+  and over you'll end up with a repeating sequence of numbers
+  This sequence is the Sad cycle.
 
 src: [/r/dailyprogrammer/sad-cycles][src]
 
@@ -31,8 +31,8 @@ def sad_cycle(start_num, exponent, iterations=100, sequence = [])
   sum = 0
 
   # loop thru start_num digits multiply by exponent and sum
-  start_num.to_s.split('').each do |d| 
-    sum += d.to_i**exponent  
+  start_num.to_s.split('').each do |d|
+    sum += d.to_i**exponent
   end
 
   # Add sum to sequence array
@@ -58,10 +58,10 @@ def find_sequence(arr)
 
     # for each index of array, go through the array to find a value match
     (arr.length - index).times do |i|
-      
+
       offset = index + i
 
-      # When a match is found between the current outer index & an index 
+      # When a match is found between the current outer index & an index
       # further ahead, capture the distance between the values @diff and compare
       # 2 sub arrays
       if value == arr[offset + 1]
@@ -80,7 +80,7 @@ def find_sequence(arr)
 
         sequence1 = arr[start1..end1]
         sequence2 = arr[start2..end2]
-        
+
         # If the sequences match this is what we're looking for so return it
         if sequence1 == sequence2
           return sequence1.join(", ")
@@ -89,7 +89,7 @@ def find_sequence(arr)
 
     end # ends inside loop
   end # ends outside loop
-  
+
   return "no match found"
 end
 

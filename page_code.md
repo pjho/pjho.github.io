@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: code
+tag: code-exercise
 permalink: /tag/code/
 ---

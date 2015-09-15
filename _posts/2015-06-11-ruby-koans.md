@@ -2,7 +2,7 @@
 layout: post
 title:  "Ruby Koans"
 date: 2015-06-11 13:29:10
-tags: code ruby
+tags: code-exercise ruby
 ---
 
 ####The Challenge
@@ -162,9 +162,9 @@ class Proxy
   def called?(method_name)
     @called.keys.include?(method_name)
   end
-  
+
   def number_of_times_called(method_name)
-    @called[method_name].nil? ? 0 : @called[method_name] 
+    @called[method_name].nil? ? 0 : @called[method_name]
   end
 end
 
@@ -206,6 +206,6 @@ end
                  ,::::::::::::::::              ::,, ,   ,:::,
                       ,::::                         , ,,
                                                   ,,,
-                                                  
-                                                  
+
+
 ~~~

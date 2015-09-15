@@ -2,7 +2,7 @@
 layout: post
 title:  "Rövarspråket"
 date:   2015-05-18 19:34:10
-tags:   code ruby
+tags:   code-exercise ruby
 ---
 
 src: [/r/dailyprogammer/Rövarspråket][link1]
@@ -26,11 +26,11 @@ def decode(str)
   return str.gsub(/(?:([b-df-hj-np-tv-z])o\1)/i,'\1')
 end
 
-puts "enter string > " 
+puts "enter string > "
 str = gets.chomp
 rovarspraket = encode(str)
 
-puts "\n\n" + "Encoded: " + rovarspraket 
+puts "\n\n" + "Encoded: " + rovarspraket
 puts "================="
 puts "Decoded: " + decode(rovarspraket)
 

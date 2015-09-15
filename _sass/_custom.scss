@@ -2,7 +2,7 @@
   margin-top:40px;
 
   a{
-    border-bottom:0 none;    
+    border-bottom:0 none;
     &:hover{
 
     }
@@ -21,7 +21,7 @@ h5 {
 .post-list{
   margin-left:0;
   padding-left:0;
-  
+
   li{
     margin-left:0;
     padding-left:0;
@@ -51,11 +51,16 @@ h5 {
 a.post-tag{color:#FFF; opacity:0.5;}
 a.post-tag:hover{opacity:1; color:#fff!important;}
 
+.post-tag{
+  border-color:#95a5a6;
+  background-color:#95a5a6;
+}
 .post-tag.post-ruby{
   border-color:#AC1401;
   background-color:#AC1401;
 }
 
+.post-tag.post-code-exercise,
 .post-tag.post-code{
   border-color:#2980b9;
   background-color:#2980b9;
@@ -80,6 +85,7 @@ a.post-tag:hover{opacity:1; color:#fff!important;}
   border-color:#232323;
   background-color:#232323;
 }
+
 .post-tag.post-react{
   border-color:#61dafb;
   background-color:#61dafb;
@@ -89,6 +95,22 @@ a.post-tag:hover{opacity:1; color:#fff!important;}
   border-color:#2CC36B;
   background-color:#2CC36B;
 }
+
+.post-tag.post-frontend{
+  border-color:#f39c12;
+  background-color:#f39c12;
+}
+
+.post-tag.post-wordpress-multisite,
+.post-tag.post-wordpress{
+  border-color:#c0392b;
+  background-color:#c0392b;
+}
+
+// .post-tag.post-slimphp{
+//   border-color:#c0392b;
+//   background-color:#c0392b;
+// }
 
 
 ul ul{

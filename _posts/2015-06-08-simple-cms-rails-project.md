@@ -2,18 +2,18 @@
 layout: post
 title:  "SimpleCms - Ruby on Rails Project"
 date: 2015-06-08 09:05:10
-tags: project rails
+tags: project rails ruby
 ---
 
 A simple cms built for the purpose of learning Ruby on Rails. Wanna check it out?
 
-[Sign in here](https://frozen-bastion-6147.herokuapp.com/cms) with the details `superadmin@pho.sx` / `password`  
+[Sign in here](https://frozen-bastion-6147.herokuapp.com/cms) with the details `superadmin@pho.sx` / `password`
 
 Feel free to make changes.
 
 ---
 
-##Whats Inside?
+##What's Inside?
 
 * Page management & Post Management with spiffy support for markdown editing & live preview.
 * Post tags powered with ajaxy goodness
@@ -24,61 +24,61 @@ Feel free to make changes.
 
 
 <div  id="gallery" class="50% row uniform">
-  
+
   <div class="4u">
     <a class="image fit thumb" href="/images/fulls/01_welcome.png">
       <img alt="Welcome" src="/images/thumbs/01_welcome.png">
     </a>
   </div>
-  
+
   <div class="4u">
     <a class="image fit thumb" href="/images/fulls/02_pages.png">
       <img alt="Pages" src="/images/thumbs/02_pages.png">
     </a>
   </div>
-  
+
   <div class="4u$">
     <a class="image fit thumb" href="/images/fulls/03_posts.png">
       <img alt="Posts" src="/images/thumbs/03_posts.png">
     </a>
   </div>
-  
+
   <div class="4u">
     <a class="image fit thumb" href="/images/fulls/04_post_edit.png">
       <img alt="Post Edit" src="/images/thumbs/04_post_edit.png">
     </a>
   </div>
-  
+
   <div class="4u">
     <a class="image fit thumb" href="/images/fulls/05_tags.png">
       <img alt="Tags" src="/images/thumbs/05_tags.png">
     </a>
   </div>
-  
+
   <div class="4u$">
     <a class="image fit thumb" href="/images/fulls/06_menus.png">
       <img alt="Menus" src="/images/thumbs/06_menus.png">
     </a>
   </div>
-  
+
   <div class="4u">
     <a class="image fit thumb" href="/images/fulls/07_admins.png">
       <img alt="Admins" src="/images/thumbs/07_admins.png">
     </a>
   </div>
-  
+
   <div class="4u">
     <a class="image fit thumb" href="/images/fulls/08_settings.png">
       <img alt="Settings" src="/images/thumbs/08_settings.png">
     </a>
   </div>
-  
+
   <div class="4u$">
     <a class="image fit thumb" href="/images/fulls/09_profile.png">
       <img alt="Profile" src="/images/thumbs/09_profile.png">
     </a>
   </div>
-  
+
 </div>
 
 ---
@@ -90,7 +90,7 @@ Some of the things I feel I really understand about rails after completing this 
 * Routing, Resorces, Namespacing
 * Ajax & Javascript in a rails environment
 * Rails' Asset pipeline
-* Templating 
+* Templating
 * HAML
 * Validations
 * Associations
@@ -115,7 +115,7 @@ Some of the things I feel I really understand about rails after completing this 
 
 * **haml** - HAML syntax for templating
 * **bootstrap-sass** - Bootstrap for easy styling
-* **pagedown-bootstrap-rails** - Pagedown MarkDown editor 
+* **pagedown-bootstrap-rails** - Pagedown MarkDown editor
 * **redcarpet** - Markdown Renderer
 * **rails-settings-cached** - Settings Management Module
 * **will_paginate** - Pagination Module
@@ -130,44 +130,44 @@ Some of the things I feel I really understand about rails after completing this 
 ## Resources Used
 Probably a few more than this but these were bookmarked...
 
-#####Associations  
+#####Associations
 
 * [Tagging from Scratch in Rails](http://www.sitepoint.com/tagging-scratch-rails/)
 
-#####Routes  
+#####Routes
 
 * [Scoping Rails Routes](http://notahat.com/2014/02/05/scoping-rails-routes.html)
 * [Using Rails Namespaces for Admin Actions](http://blog.roberteshleman.com/2014/08/14/using-rails-namespaces-for-admin-actions/)
 * [Rails Routing from the Outside In](http://edgeguides.rubyonrails.org/routing.html)
 
-#####Settings  
+#####Settings
 
 * [Settings Gem](https://github.com/huacnlee/rails-settings-cached)
 
-#####Custom Errors  
+#####Custom Errors
 
 * [Redirecting to Custom 404 and 500 Pages in Rails](http://easyactiverecord.com/blog/2014/08/19/redirecting-to-custom-404-and-500-pages-in-rails/)
 
-#####Forms  
+#####Forms
 
 * [Form Helpers - Rails Guides](http://guides.rubyonrails.org/form_helpers.html)
 
-#####Validations  
+#####Validations
 
 * [Active Record Validations](http://guides.rubyonrails.org/active_record_validations.html)
 
-#####Migrations  
+#####Migrations
 
 * [http://guides.rubyonrails.org/active_record_validations.html](http://edgeguides.rubyonrails.org/active_record_migrations.html)
 * [Rails Migration Cheat Sheet](https://gist.github.com/pjho/af5245d59ed0d27d9a6e)
 
-#####Asset Pipeline  
+#####Asset Pipeline
 
 * [The Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
 
-#####Slug / Url  
+#####Slug / Url
 
 * [Custom Slugs in Rails Without Gems](http://code-worrier.com/blog/custom-slugs-in-rails/)
 
-#####Exceptions  
+#####Exceptions
 [Ruby Exceptions](http://rubylearning.com/satishtalim/ruby_exceptions.html)

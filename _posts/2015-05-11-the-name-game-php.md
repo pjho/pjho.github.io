@@ -2,22 +2,22 @@
 layout: post
 title:  "The Name Game - Php"
 date:   2015-05-11 19:02:10
-tags: code php
+tags: code-exercise php
 ---
 
 [http://www.reddit.com/r/dailyprogrammer/the-name-game][link1]
 
 
-Name Game in Php  
+Name Game in Php
 
-      
-**input:**  
-&nbsp;&nbsp;&nbsp;&nbsp; *Lincoln*  
-**output:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Lincoln, Lincoln bo Bincoln,  
-&nbsp;&nbsp;&nbsp;&nbsp;Bonana fanna fo Fincoln,  
-&nbsp;&nbsp;&nbsp;&nbsp;Fee fy mo Mincoln,  
-&nbsp;&nbsp;&nbsp;&nbsp;Lincoln!  
+
+**input:**
+&nbsp;&nbsp;&nbsp;&nbsp; *Lincoln*
+**output:**
+&nbsp;&nbsp;&nbsp;&nbsp;Lincoln, Lincoln bo Bincoln,
+&nbsp;&nbsp;&nbsp;&nbsp;Bonana fanna fo Fincoln,
+&nbsp;&nbsp;&nbsp;&nbsp;Fee fy mo Mincoln,
+&nbsp;&nbsp;&nbsp;&nbsp;Lincoln!
 
 To test all cases use: *`Anna, Dave, Bob, Fred, Mary`*
 
@@ -30,13 +30,13 @@ class rhyme
   // Find the first letter
   // Create the filler words
   // generate output
-  
+
   public $name;
   private $letters = array();
   private $rhymeNames = array();
   private $firstLetter;
 
-  
+
   /**
    * Constructor
    * Initialises variables
@@ -103,7 +103,7 @@ class rhyme
 $rhyme = new Rhyme($_GET['name']);
 $rhyme->outputRhyme();
 
-  
+
 ~~~
 
 

@@ -2,13 +2,13 @@
 layout: post
 title:  "Simple BlackJack Game in Ruby"
 date:   2015-05-14 19:02:10
-tags: code ruby
+tags: code-exercise ruby
 ---
 
 {% highlight ruby %}
-   
+
   class BlackJack
-    
+
     def initialize
       @player = 0
       @dealer = 0
@@ -25,7 +25,7 @@ tags: code ruby
       output_scores
       player_play
     end
-    
+
     def output_scores
       puts "Player: #{@player} | Dealer: #{@dealer} \n\n"
     end
@@ -34,7 +34,7 @@ tags: code ruby
       puts "Would you like another number? Y/N"
       new_deal = $stdin.gets.chomp.upcase
 
-      if new_deal == 'Y' 
+      if new_deal == 'Y'
          num = deal
          puts "You get a #{num}."
          @player += num
@@ -58,7 +58,7 @@ tags: code ruby
 
       @dealer > 21 ? end_game('dealer') : end_game
     end
-    
+
     def end_game(loser = nil)
       if loser.nil?
         puts "Game Over!"
@@ -75,7 +75,7 @@ tags: code ruby
 
   game = BlackJack.new()
   game.begin
-  
+
 {% endhighlight %}
 
 
