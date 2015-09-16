@@ -4,42 +4,14 @@ title: About Me
 permalink: /about/
 ---
 
-I'm a web developer from Wellington, NZ. I'm currently putting myself through an 'open-source' education upgrade using both paid & open online content. I aim to document my learning on this site.
+I'm a web developer from Wellington, NZ. I've been working in web development since 2009 mostly in a marketing/agency environment. Most of my work has been end-to-end development of websites usually using WordPress CMS as a backend.
 
-My core focus at present is updating my webdev skills focusing on Ruby/Rails & JS/Angular/React with a side focus on data & data analysis as well as more general comp-sci topics such as algorithms & data structures.
+I recently spent a few months upskilling in a self guided dev bootcamp, and this site was originally built as a way to document everything I was learning.
 
-Full details of courses I'm working on can be seen [here][sgs]
+When I'm not working I'm usually either working on improving my dev skills & keeping up with what's new in the industry. I'm interested in business & startups, data & data visualisation, marketing, and also the environment and natural world. So spend a fair bit of time reading up on those things as well.
 
---- 
+Occasionally I also get away from my computer, I love to get outside and explore, walking, hiking, scuba diving; or, just chilling with friends and family.
 
-My core technical skills at present include:
-
-- Frontend Web Development with HTML5/CSS3/SASS & jQuery
-- Wordpress theme development
-- PHP & MySQL
-- Workflow tools including Git, Grunt & CLI
-- HTML Email Marketing & Platforms
-
-I'm familiar with:
-
-- OOP principles
-- REST principles 
-- Vanilla JavaScript
-- Basic server management (LAMP/LEMP)
-- Common Web APIs including Facebook, Twitter, Google Maps
-- Digital Marketing Strategy primarily:
-   - Google Analytics & Adwords
-   - Facebook Advertising
-   - Retargeting
-   - Event & Conversion tracking
-   - A/B Testing
-   - Landing page optimisation
-
-And have some experience with
-
-- Ruby/Rails
-- Python/Django 
-- AngularJS
 
 
 <!-- Links -->

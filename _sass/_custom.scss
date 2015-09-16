@@ -122,3 +122,31 @@ ul ul{
     }
   }
 }
+
+.deemphasize{
+  font-size:0.8em;
+  font-size:0.8rem;
+  color:#c5c5c5;
+}
+
+.cv-template {
+  h2{
+    color: #49bf9d;
+    border-bottom: 1px solid #c5c5c5;
+    padding-bottom:5px;
+  }
+  h3{
+    margin-bottom:3px;
+  }
+  h4 {
+    font-style: italic;
+    color: #969696;
+  }
+}
+
+
+@media print {
+  #header,
+  #footer{ display:none; }
+  #main {margin-left: 0; width: 100%;}
+}
