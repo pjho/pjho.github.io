@@ -5,6 +5,11 @@ date: 2014-02-15 09:05:10
 tags: project frontend
 ---
 
+####Project
+A simple landing page to drive traffic to and capture leads. Frontend only. Built on top of Foundation framework.
+
+---
+
 ####Screenshots
 
 <div  id="gallery" class="50% row uniform">
@@ -17,12 +22,8 @@ tags: project frontend
 
 </div>
 
---- 
+---
 
 ####Links
 - [jolimontclub.com.au](http://jolimontclub.com.au)
 
----
-
-####Project
-A simple landing page to drive traffic to and capture leads. Frontend only. Built on top of Foundation framework.

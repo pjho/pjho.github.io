@@ -5,7 +5,6 @@ permalink: /cv/
 class: 'cv-template'
 ---
 
-
 ##Overview
 I'm a web developer with broad skills and experience across the digital marketing & technology landscape. I am passionate about software development and technology in general, as a vehicle for steamlining business operations & improving people's lives.
 
@@ -20,7 +19,7 @@ My role at Xero mostly involves working on an internal website which provides in
 ###OE - North America <span class="deemphasize"> - March 2014 to April 2015</span>
 ####Various Roles
 
-My partner and I took a year away from the desk to travel. We travelled in Australia, NZ, Thailand, Cook Islands, Canada & the USA. 
+My partner and I took a year away from the desk to travel. We travelled in Australia, NZ, Thailand, Cook Islands, Canada & the USA.
 
 
 ###Digicap Digital Agency <span class="deemphasize"> - June 2011 to April 2014</span>
@@ -40,7 +39,7 @@ twenty4 is a Web Development and digital marketing agency. At twenty4 I was most
 
 ##Education
 ###Self-Guided Developer Bootcamp<span class="deemphasize"> - April 2015 to July 2015</span>
-After returning home from travelling I spent some time upskilling to improve my dev skills. I spent a month focusing on Ruby and Ruby on Rails, and a month focusing on JavaScript and React. This site was originally built to document what I achieved in that time.
+After returning home from travelling I spent some time upskilling to move my dev skills beyond WordPress. I spent a month focusing on Ruby and Ruby on Rails, and a month focusing on JavaScript and React. This site was originally built to document what I achieved in that time.
 
 ###Diploma Web Design & Development Natcoll Design <span class="deemphasize"> - July 2008 to July 2009</span>
 XHTML, CSS, JavaScript, PHP and MySQL, introductory Flash and ActionScript, Web Design and Usability.
@@ -54,10 +53,10 @@ Human Geography including Development Studies, History, Politics and Economics. 
 ##SkillSet
 
 ###Core Progamming Skills
-HTML5, CSS3, JavaScript, SASS, jQuery, WordPress Theme & Plugin development, PHP, MySql, Bootstrap, Foundation etc., Git, Grunt/Gulp
+HTML5, CSS3, JavaScript, jQuery, WordPress Theme & Plugin development, PHP, MySql, SASS/Less/Stylus, Git, Gulp/Grunt
 
 ###Secondary Programming Skills
-Ruby, Ruby on Rails, MySql, RESTful APIs, OOP, Common API integrations including FaceBook, Twitter, Google Maps, YouTube, MailChimp
+ReactJs, Ruby, Ruby on Rails, MySql, RESTful APIs, OOP, Common API integrations including FaceBook, Twitter, Google Maps, YouTube, MailChimp
 
 ###Actively Working on Improving
 JavaScript, JS Frameworks & JS EcoSystem.
@@ -66,7 +65,7 @@ JavaScript, JS Frameworks & JS EcoSystem.
 Google AdWords & Google Analytics, Google Tag Manager, Adroll, Facebook Advertiser Network, MailChimp, Campaign Monitor
 
 ###Software
-Vim, Sublime Text, iTerm, Git, Photoshop & Adobe Creative Suite, VMWareFusion/Virtual Box, Basic Server Management, OSX, Windows, Linux
+Sublime Text, iTerm, Vim, Git, Photoshop & Adobe Creative Suite, Vagrant, VMWareFusion/Virtual Box, Basic Server Management (mostly using Nginx on Ubuntu), OSX, Windows, Linux
 
 
 <!-- Links -->

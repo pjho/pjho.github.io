@@ -7,9 +7,11 @@ tags: project rails ruby
 
 A simple cms built for the purpose of learning Ruby on Rails. Wanna check it out?
 
-[Sign in here](https://frozen-bastion-6147.herokuapp.com/cms) with the details `superadmin@pho.sx` / `password`
+###Demo
+[Sign in here](https://frozen-bastion-6147.herokuapp.com/cms) with the details `superadmin@pho.sx` / `password`. Feel free to make changes.
 
-Feel free to make changes.
+### Source Code
+Source code is [available on Github](https://github.com/pjho/rails_simple_cms).
 
 ---
 

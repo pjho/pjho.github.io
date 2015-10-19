@@ -145,8 +145,15 @@ ul ul{
 }
 
 
+.border img{
+  border:1px solid #e5e5e5;
+  padding:3px;
+}
+
+
 @media print {
   #header,
   #footer{ display:none; }
   #main {margin-left: 0; width: 100%;}
 }
+

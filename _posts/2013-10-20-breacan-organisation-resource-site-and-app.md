@@ -5,6 +5,21 @@ date: 2013-10-20 09:05:10
 tags: project wordpress
 ---
 
+####Project
+The BreaCan project was a rebuild of an organisation/resource site for Melbourne based not-for-profit BreaCan.
+
+The build included:
+- CMS with page & blog capability
+- Custom Event Management
+- Library Listing & availability management
+- Podcast Feed
+
+The site was built with WordPress and contains a section which was designed to be App-like which we also had iOS & Android wrappers created to add to the experience.
+
+This project was completed in late 2013.
+
+---
+
 ####Screenshots
 
 <div  id="gallery" class="50% row uniform">
@@ -29,25 +44,10 @@ tags: project wordpress
 
 </div>
 
---- 
+---
 
 ####Links
 - [BreaCan.org.au](http://breacan.org.au)
 - [BreaCan Navigators](http://breacan.org.au/navigators)
-
----
-
-####Project
-The BreaCan project was a rebuild of an organisation/resource site for Melbourne based not-for-profit BreaCan.
-
-The build included:
-- CMS with page & blog capability
-- Custom Event Management
-- Library Listing & availability management
-- Podcast Feed
-
-The site was built with WordPress and contains a section which was designed to be App-like which we also had iOS & Android wrappers created to add to the experience.
-
-This project was completed in late 2013.
 
 
