@@ -12,8 +12,8 @@ My experience to date has predominantly involved end to end website development,
 
 ##Experience
 ###Xero <span class="deemphasize"> - July 2015 to present</span>
-####Developer Internal Applications
-My role at Xero mostly involves working on an internal website which provides information to staff about the company and its processes. It uses Atlassian Confluence as a CMS but presents information in a nicer way.
+####Developer Internal Applications / Frontend Developer
+At Xero my work has mostly involved working on internal facing applications as a Frontend Developer. I have primarily been working with React & Redux to build single page appliations that interface with other internal applications, primarily Atlassian JIRA & Confluence.
 
 
 ###OE - North America <span class="deemphasize"> - March 2014 to April 2015</span>
@@ -53,13 +53,13 @@ Human Geography including Development Studies, History, Politics and Economics. 
 ##SkillSet
 
 ###Core Progamming Skills
-HTML5, CSS3, JavaScript, jQuery, WordPress Theme & Plugin development, PHP, MySql, SASS/Less/Stylus, Git, Gulp/Grunt
+HTML5, CSS3, JavaScript/ES6, React/Redux/WebPack, jQuery, WordPress Theme & Plugin development, PHP, MySql, SASS/Less/Stylus, Git, Gulp/Grunt
 
 ###Secondary Programming Skills
-ReactJs, Ruby, Ruby on Rails, MySql, RESTful APIs, OOP, Common API integrations including FaceBook, Twitter, Google Maps, YouTube, MailChimp
+Ruby, Ruby on Rails, MySql, RESTful APIs, OOP, Common API integrations including FaceBook, Twitter, Google Maps, YouTube, MailChimp
 
-###Actively Working on Improving
-JavaScript, JS Frameworks & JS EcoSystem.
+###Actively Working on
+JavaScript & Node JS
 
 ###Marketing
 Google AdWords & Google Analytics, Google Tag Manager, Adroll, Facebook Advertiser Network, MailChimp, Campaign Monitor

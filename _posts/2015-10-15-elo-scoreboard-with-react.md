@@ -11,7 +11,7 @@ A simple scoreboard implementing the [Elo ranking system](https://en.wikipedia.o
 Source code is [available on Github](https://github.com/pjho/Elo-Score-Board).
 
 ### Demo
-Demo can be [viewed here](https://dl.dropboxusercontent.com/u/3675923/elo_demo/index.html).
+Demo can be [viewed here](https://elotest.firebaseapp.com/).
 
 ---
 
