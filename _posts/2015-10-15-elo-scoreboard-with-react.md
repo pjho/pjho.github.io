@@ -7,11 +7,12 @@ tags: project react js
 
 A simple scoreboard implementing the [Elo ranking system](https://en.wikipedia.org/wiki/Elo_rating_system) built with ReactJS & Firebase.
 
+### Demo
+Demo can be [viewed here](https://elotest.firebaseapp.com/) and you can login with the password `elo123`.
+
 ### Source Code
 Source code is [available on Github](https://github.com/pjho/Elo-Score-Board).
 
-### Demo
-Demo can be [viewed here](https://elotest.firebaseapp.com/).
 
 ---
 

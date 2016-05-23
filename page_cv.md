@@ -5,25 +5,31 @@ permalink: /cv/
 class: 'cv-template'
 ---
 
-##Overview
+## Overview
 I'm a web developer with broad skills and experience across the digital marketing & technology landscape. I am passionate about software development and technology in general, as a vehicle for steamlining business operations & improving people's lives.
 
 My experience to date has predominantly involved end to end website development, taking bespoke designs, building frontend markup and integrating into WordPress CMS. I’ve worked mostly in an agency / marketing environment and have a broad range of associated experience including Digital Marketing and Project Management.
 
-##Experience
-###Xero <span class="deemphasize"> - July 2015 to present</span>
-####Developer Internal Applications / Frontend Developer
+More recently I've been working almost exclusively with Javascript building single page applications with React/Redux at Xero.
+
+## Experience  
+
+### Xero <span class="deemphasize"> - July 2015 to present</span>  
+
+#### Developer Internal Applications / Frontend Developer  
 At Xero my work has mostly involved working on internal facing applications as a Frontend Developer. I have primarily been working with React & Redux to build single page appliations that interface with other internal applications, primarily Atlassian JIRA & Confluence.
 
 
-###OE - North America <span class="deemphasize"> - March 2014 to April 2015</span>
-####Various Roles
+### OE - North America <span class="deemphasize"> - March 2014 to April 2015</span>
+
+#### Various Roles
 
 My partner and I took a year away from the desk to travel. We travelled in Australia, NZ, Thailand, Cook Islands, Canada & the USA.
 
 
-###Digicap Digital Agency <span class="deemphasize"> - June 2011 to April 2014</span>
-####Co-Founder and Director / Developer & Digital Producer
+### Digicap Digital Agency <span class="deemphasize"> - June 2011 to April 2014</span>
+
+#### Co-Founder and Director / Developer & Digital Producer
 
 Digicap is a full service digital marketing and technology agency. My role at Digicap involved both web development and project/production management.
 
@@ -33,33 +39,33 @@ In production management my responsibilities included managing a small team of w
 
 Other responsibilities included managing & reporting on Google Adwords campaigns; Providing training to clients; and the odd bit of design.
 
-###Twenty4 <span class="deemphasize"> - March 2010 to June 2011</span>
-####Web Developer
+### Twenty4 <span class="deemphasize"> - March 2010 to June 2011</span>
+
+#### Web Developer
+
 twenty4 is a Web Development and digital marketing agency. At twenty4 I was mostly involved in end to end development of Corporate/Brochure websites using WordPress CMS and working on a few Ecommerce sites built in Magento.
 
-##Education
-###Self-Guided Developer Bootcamp<span class="deemphasize"> - April 2015 to July 2015</span>
-After returning home from travelling I spent some time upskilling to move my dev skills beyond WordPress. I spent a month focusing on Ruby and Ruby on Rails, and a month focusing on JavaScript and React. This site was originally built to document what I achieved in that time.
+## Education
 
-###Diploma Web Design & Development Natcoll Design <span class="deemphasize"> - July 2008 to July 2009</span>
+### Diploma Web Design & Development Natcoll Design <span class="deemphasize"> - July 2008 to July 2009</span>
 XHTML, CSS, JavaScript, PHP and MySQL, introductory Flash and ActionScript, Web Design and Usability.
 
-###Certificate in Digital Design Natcoll Design <span class="deemphasize"> - Oct 2007 to Mar 2008</span>
+### Certificate in Digital Design Natcoll Design <span class="deemphasize"> - Oct 2007 to Mar 2008</span>
 Introductory document design, illustration, web design and introductory design theory covering print design theory, web design theory, colour and typography.
 
-###Bachelor of Arts Geography Victoria University of Wellington <span class="deemphasize"> - March 2003 to June 2007</span>
+### Bachelor of Arts Geography Victoria University of Wellington <span class="deemphasize"> - March 2003 to June 2007</span>
 Human Geography including Development Studies, History, Politics and Economics. I also took papers in Resource Management and Environmental Best Practice as well as some Physical Geography, Geology and Statistics papers.
 
-##SkillSet
+## SkillSet
 
-###Core Progamming Skills
-HTML5, CSS3, JavaScript/ES6, React/Redux/WebPack, jQuery, WordPress Theme & Plugin development, PHP, MySql, SASS/Less/Stylus, Git, Gulp/Grunt
+### Core Progamming Skills
+JavaScript/ES6, React/Redux/WebPack, HTML5, CSS3, jQuery, WordPress Theme & Plugin development, PHP, MySql, SASS/Less/Stylus, Git, Gulp/Grunt
 
-###Secondary Programming Skills
-Ruby, Ruby on Rails, MySql, RESTful APIs, OOP, Common API integrations including FaceBook, Twitter, Google Maps, YouTube, MailChimp
+### Secondary Programming Skills
+Ruby/Rails, Python, RESTful APIs, OOP, Common API integrations including FaceBook, Twitter, Google Maps, YouTube, MailChimp
 
-###Actively Working on
-JavaScript & Node JS
+### Most Actively Working on Improving
+JavaScript / React / Node JS
 
 ###Marketing
 Google AdWords & Google Analytics, Google Tag Manager, Adroll, Facebook Advertiser Network, MailChimp, Campaign Monitor
